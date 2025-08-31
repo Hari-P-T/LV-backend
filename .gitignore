@@ -1,0 +1,14 @@
+# =========================
+# Python (if you use it)
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.sqlite3
+*.db
+.venv/
+env/
+venv/
+*.egg-info/
